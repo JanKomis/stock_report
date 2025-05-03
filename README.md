@@ -20,7 +20,7 @@ These metrics were visualized in the Power BI dashboard.
 
 - Power Bi dashboard
 - Sql tables
-- Data fetch from two sources Polygon.io and Yahoo Finance
+- Data fetch from ~~two sources Polygon.io and~~ Yahoo Finance
 
 ### Scheme 
 
